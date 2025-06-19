@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <!-- Meta tags-->
+        <meta charset="utf-8">
+        <!-- Title -->
+        <title>Ecoute</title>
+        <!-- CSS Style -->
+        <link href="style.css" rel="stylesheet">
+        <!-- JS Scripts -->
+        <script src="js/listening.js" defer></script>
+
+    </head>
+
+    <body>
+
+        <div class="page-header">
+            <h2 class="page-title">Diagnostic par l'IA</h2>
+            <div class="page-title-line"></div>
+        </div>
+        
+        <div id="results">
+            <div class="results-row">
+                <div class="results_card">
+                    <h2>Transcription</h2>
+                    <pre id="transcription"></pre>
+                </div>
+            </div>
+            <div class="results-row">
+                <div class="results_card">
+                    <h2>Mots-clés détectés</h2>
+                    <table id="keywords-table" style="width:100%;border-collapse:collapse;">
+                        <thead>
+                            <tr>
+                                <th>Mot-clé</th>
+                                <th>Détecté</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rempli dynamiquement -->
+                        </tbody>
+                    </table>
+                </div>
+                <div class="results_card">
+                    <h2>Prédiction</h2>
+                    <div id="prediction-loader" style="display:none;">
+                        <img src="../img/loader.gif" alt="Chargement..." style="width:48px;height:48px;">
+                        <div>Analyse en cours...</div>
+                    </div>
+                    <div id="prediction-result"></div>
+                </div>
+            </div>
+        </div>
+
+    </body> 
+
+</html>

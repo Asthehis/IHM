@@ -1,0 +1,28 @@
+0.03s - 5.48s: Bonjour monsieur, j'ai un infarctus, il y a 4 ans et qui a été stenté.
+5.5s - 9.83s: Et maintenant je suis sous chimiothérapie, j'ai un lymphome.
+9.85s - 11.95s: Vous avez quel âge monsieur ?
+11.99s - 18.38s: J'ai 57 ans, je suis suivi par un lymphome à l'IPC et maintenant j'ai des douleurs à la poitrine qui passent pas.
+18.4s - 21.26s: Ça me brûle, apparemment j'ai de la tension.
+21.3s - 23.95s: Je suis sous traitement, donc je ne comprends pas.
+23.97s - 25.33s: Ça fait une heure que je n'ai pas pu manger.
+25.85s - 32.46s: Sur une échelle de 1 à 10, vous noterez votre douleur à combien ?
+32.56s - 38.65s: Je dirais 8,9 sur 10.
+38.67s - 42.01s: La douleur, elle monte dans le cou ou dans la mâchoire ?
+42.03s - 44.11s: Plutôt dans la mâchoire.
+44.13s - 49.98s: Quand vous prenez une grande inspiration, la douleur, elle est majorée ?
+50.0s - 51.42s: Je ne peux pas trop vous dire.
+51.44s - 52.9s: Je ne prends pas de grandes inspirations.
+53.46s - 55.38s: T'as envie de vomir un peu comme moi là ?
+55.4s - 56.62s: Ouais j'ai des petites nausées.
+56.66s - 57.91s: Vous avez du diabète ?
+57.92s - 59.15s: Non.
+59.17s - 63.16s: Faut descendre.
+63.17s - 63.66s: Tu fais du cholestérol ?
+63.68s - 67.32s: Oui mais c'est du traitement.
+67.36s - 67.9s: Vous fumez ?
+67.92s - 69.43s: Vous avez fumé ?
+69.45s - 70.19s: Euh non du tout.
+70.21s - 71.83s: Vous avez combien de stents ?
+71.85s - 72.91s: A peu près trois.
+72.93s - 75.58s: Bon on va vous envoyer les pompiers.
+75.6s - 76.58s: A peu près trois, t'as trois stents.

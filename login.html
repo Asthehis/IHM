@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+
+        <!-- Meta tags-->
+        <meta charset="utf-8">
+        <!-- Title -->
+        <title>Login Page</title>
+        <!-- CSS Style -->
+        <link href="style.css" rel="stylesheet">
+        <!-- JS Scripts -->
+        <script src="js/utils.js"></script>
+        <script src="js/login.js" defer></script>
+
+    </head>
+
+    <body>
+
+        <!-- Login -->
+        <section id="login">
+
+            <h2>Connexion</h2>
+
+            <form action="index2.html" method="post">
+
+                <span class="auth_form">
+                    <label for="flogin">Identifiant :</label>
+                    <input type="text" name="login" id="flogin" placeholder="Entrez votre identifiant" required>
+                </span>
+
+                <span class="auth_form">
+                    <label for="fpassword">Mot de passe :</label>
+                    <input type="password" name="password" id="fpassword" placeholder="Entrez votre mot de passe" required>
+                </span>
+
+                <br><br>
+
+                <input class="bouton" type="submit" value="Se connecter">
+                <input class="bouton" type="reset" value="Effacer">
+
+            </form>
+        </section>
+    </body>
+</html>
